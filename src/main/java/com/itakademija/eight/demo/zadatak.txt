@@ -1,0 +1,6 @@
+1.
+zelimo da doradimo ContinueWithLabelDemo na nacin da izbrojimo koliko se puta
+rec sadrzi u recenici.
+Pogledaj kroz prozor i videces da pada sneg, moj prozor u svetu je livada na kojoj pada sneg.
+
+bonus : analizirati nedostatake naseg resenja ContinueWithLabelDemo.
